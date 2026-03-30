@@ -12,8 +12,7 @@
 
 [Features](#-features) • [Installation](#-installation) • [Configuration](#-configuration) • [API Endpoints](#-api-endpoints) • [Project Structure](#-project-structure)
 
-</div>
-
+</div
 ---
 
 ## 📋 Overview
